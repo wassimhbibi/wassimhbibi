@@ -1,5 +1,5 @@
 # Wassim-HBIBI 🏄‍♂️ 
-
+**`Software Developer`**
 <p align="left">My name is Wassim Hbibi, I am currently a 2nd year SINT(Information System and New Technologies)<br> student at the Faculty of Economics and Management of Sfax (FSEGS) - University of Sfax (Tunisia).<br>All coding projects are built from the ground up, from planning and designing all the way to solving <br>real-life problems with code.
 
 </p>
