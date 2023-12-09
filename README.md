@@ -3,7 +3,7 @@
 <p align="left">My name is Wassim Hbibi, I am currently a 2nd year SINT(Information System and New Technologies)<br> student at the Faculty of Economics and Management of Sfax (FSEGS) - University of Sfax (Tunisia).<br>All coding projects are built from the ground up, from planning and designing all the way to solving <br>real-life problems with code.
 <img align="right" style=""width="200px" src="https://www.codeur.com/blog/wp-content/uploads/2018/04/image-a-la-une-article-codeur-developpeur-web.png">
 </p>
-<br>👀 I’m interested in web development
+<br>👀 I’m interested in web development 
 
 <br>🧰 Languages and Tools
 
