@@ -1,6 +1,12 @@
 # Wassim-HBIBI 🏄‍♂️ 
 **`Software Developer`**
-<p align="left">My name is Wassim Hbibi,I am a Data Science engineer and a Full-Stack Developer with extensive experience in Angular and .NET. I specialize in building end-to-end applications, from the front-end user interface to back-end server-side development, ensuring high performance and scalability.<br>All coding projects are built from the ground up, from planning and designing all the way to solving <br>real-life problems with code.
+<p align="left">Hi, I’m Wassim Hbibi, a Freelance Full-Stack Developer and Data Science Engineer. I help businesses and individuals bring their ideas to life by building modern, responsive, and high-performance web applications.
+
+I specialize in Angular for the front-end and .NET for the back-end, creating complete solutions from scratch , from planning and design to deployment. Every project I deliver focuses on clean code, scalability, and solving real-world problems efficiently.
+
+Whether you need a professional website, a custom web application, or a data-driven solution, I’m here to turn your vision into reality.
+
+Explore my portfolio to see my work and how I can help your project succeed:https://wassim-hbibi-portfolio.netlify.app/
 <img align="right" style=""width="200px" src="https://www.codeur.com/blog/wp-content/uploads/2018/04/image-a-la-une-article-codeur-developpeur-web.png">
 </p>
 <br>👀 I’m interested in web development 
