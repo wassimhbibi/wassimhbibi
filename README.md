@@ -28,4 +28,4 @@ Explore my portfolio to see my work and how I can help your project succeed: htt
 ### 📫 Contact Me
 - Portfolio: [https://wassim-hbibi-portfolio.netlify.app](https://wassim-hbibi-portfolio.netlify.app)  
 - Email: habibiwassim37@gmail.com  
-- LinkedIn: [[linkedin.com/in/wassim-hbibi](https://www.linkedin.com/in/wassim-hbibi)](https://www.linkedin.com/in/wassim-hbibi-881705226/)
+- LinkedIn: https://www.linkedin.com/in/wassim-hbibi-881705226/
