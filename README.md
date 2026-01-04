@@ -10,7 +10,7 @@ Whether you need a professional website, a custom web application, or a data-dri
 
 Explore my portfolio to see my work and how I can help your project succeed:
 
-<img align="right" width="200px" src="https://github.com/wassim-hbibi/wassim-hbibi-portfolio/raw/main/wa.avif">
+<img align="right" width="200px" src="https://github.com/wassimhbibi/wassimhbibi/raw/main/wa.avif">
 </p>
 
 <br>👀 I’m interested in web development  
