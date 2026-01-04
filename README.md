@@ -10,7 +10,7 @@ Whether you need a professional website, a custom web application, or a data-dri
 
 Explore my portfolio to see my work and how I can help your project succeed: https://wassim-hbibi-portfolio.netlify.app
 
-<img align="right" width="200px" src="https://github.com/wassimhbibi/wassimhbibi/raw/main/wa.avif">
+<img align="right" width="400px" src="https://github.com/wassimhbibi/wassimhbibi/raw/main/wa.avif">
 </p>
 
 ---
