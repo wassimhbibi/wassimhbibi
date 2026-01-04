@@ -4,11 +4,11 @@
 <p align="left">
 Hi, I’m Wassim Hbibi, a Freelance Full-Stack Developer and Data Science Engineer. I help businesses and individuals bring their ideas to life by building modern, responsive, and high-performance web applications.
 
-I specialize in Angular for the front-end and .NET for the back-end, creating complete solutions from scratch — from planning and design to deployment. Every project I deliver focuses on clean code, scalability, and solving real-world problems efficiently.
+I specialize in Angular for the front-end and .NET for the back-end, creating complete solutions from scratch , from planning and design to deployment. Every project I deliver focuses on clean code, scalability, and solving real-world problems efficiently.
 
 Whether you need a professional website, a custom web application, or a data-driven solution, I’m here to turn your vision into reality.
 
-Explore my portfolio to see my work and how I can help your project succeed:
+Explore my portfolio to see my work and how I can help your project succeed: https://wassim-hbibi-portfolio.netlify.app
 
 <img align="right" width="200px" src="https://github.com/wassimhbibi/wassimhbibi/raw/main/wa.avif">
 </p>
